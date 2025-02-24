@@ -39,4 +39,4 @@ This notebook introduces Convolutional Neural Networks (CNNs) and their applicat
 
 ---
 ### 📢 Conclusion
-The CNN was trained on a web images, which was preprocessed and divided into training, validation, and test sets. The architecture consists of multiple convolutional and pooling layers, followed by dense layers for classification. After training for 2 epochs, the model was evaluated on the test set, achieving a **precision of 0.98**, a **recall of 0.99**, and a **binary accuracy of 0.99**, These results confirm the model's ability to effectively learn and distinguish image features.
+The CNN was trained on a web images, which was preprocessed and divided into training, validation, and test sets. The architecture consists of multiple convolutional and pooling layers, followed by dense layers for classification. After training for 2 epochs, the model was evaluated on the test set, achieving a **precision of 0.98**, a **recall of 0.99**, and a **binary accuracy of 0.99**. These results confirm the model's ability to effectively learn and distinguish image features.
